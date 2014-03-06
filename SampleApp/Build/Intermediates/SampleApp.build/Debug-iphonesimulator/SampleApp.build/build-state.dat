@@ -1,0 +1,1201 @@
+TSampleApp
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Info.plist /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh
+cProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-cpekfieztkwxptglfezlygvzmqeu/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAViewController.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/GCPINViewController.o /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp normal i386
+cGenerateDSYMFile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app.dSYM /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp
+cCopyStringsFile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/en.lproj/InfoPlist.strings SampleApp/en.lproj/InfoPlist.strings
+cCompileXIB /Users/mbingham/Zighra/user_study/pinview/SampleApp/en.lproj/SAViewController.xib
+cCpResource pinview/PINBox.png SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox.png
+cCpResource pinview/PINBox@2x.png SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox@2x.png
+cCompileXIB /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~iphone.xib
+cCompileXIB /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~ipad.xib
+cCpResource Settings.bundle SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Settings.bundle
+cPhaseScriptExecution Copy\ Pods\ Resources /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-A31F2AEEB63E4CF485BAF172.sh
+cTouch /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052F1508300000000000003B5
+t1391546499
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052F1508800000000000001A0
+t1391546504
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000052F1508A00000000009040F0
+t1391546506
+s9453808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052F1508A00000000005838D0
+t1391546506
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052F1508A00000000005B82A0
+t1391546506
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052F1508A0000000000445870
+t1391546506
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000052F1508B0000000000355050
+t1391546507
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052F1508B00000000002F6810
+t1391546507
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052F1508A000000000004B000
+t1391546506
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052F1508C000000000088C680
+t1391546508
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000052F1508C00000000001BA530
+t1391546508
+s1811760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052F1508D0000000000037620
+t1391546509
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052F1508D00000000004848F0
+t1391546509
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052F1508D00000000001290B0
+t1391546509
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000052F1508D00000000001081B0
+t1391546509
+s1081776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052F150900000000001DB9910
+t1391546512
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000052F1509900000000002B9F20
+t1391546521
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c0000000052F1509E0000000000002338
+t1391546526
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c0000000052F1509F000000000008D300
+t1391546527
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c0000000052F1509F000000000038ACB0
+t1391546527
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c0000000052F1401000000000000141F0
+t1391542288
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c0000000052F1509F0000000000013500
+t1391546527
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000052F1509F0000000000033BA0
+t1391546527
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000052F1509F000000000001CFB0
+t1391546527
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000052F1509F000000000001B2B0
+t1391546527
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000052F1509F00000000000632B0
+t1391546527
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000052F1509F0000000000008880
+t1391546527
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000052F1509F0000000000015080
+t1391546527
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000052F1509F00000000000230E0
+t1391546527
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000052F1509F000000000000E380
+t1391546527
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052F1509F0000000000087200
+t1391546527
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c0000000052F1509F00000000000171A0
+t1391546527
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000052F1509F0000000000039C10
+t1391546527
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000052F1509F000000000000B0B0
+t1391546527
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000052F1509F0000000000167FE0
+t1391546527
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000052F1509F00000000000106A0
+t1391546527
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000052F1509F000000000001CE40
+t1391546527
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000052F1509F0000000000071040
+t1391546527
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000052F1509F0000000000067A10
+t1391546527
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000052F1509F000000000001BAD0
+t1391546527
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c0000000052F1509F0000000000088BA0
+t1391546527
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000052F150B00000000000005004
+t1391546544
+s20484
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-cpekfieztkwxptglfezlygvzmqeu/SampleApp-Prefix.pch.pch
+t1393513757
+s5333772
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-eujnnsqiqsbxbgbpvnqpsgeqgtot/SampleApp-Prefix.pch.pch
+t1393513757
+s5339532
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/GCPINViewController.o
+t1393516552
+s91048
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o
+t1393516898
+s66520
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAViewController.o
+t1393516898
+s63492
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp
+t2
+s0
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp.LinkFileList
+c00000000530F551D0000000000000288
+t1393513757
+s648
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o
+t1393513757
+s3152
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/GCPINViewController.o
+t1393513758
+s95244
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o
+t1393513757
+s70468
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAViewController.o
+t1393513757
+s60052
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp
+t2
+s0
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp.LinkFileList
+c00000000530F551D0000000000000290
+t1393513757
+s656
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o
+t1393513757
+s3372
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh
+c00000000530F551D0000000000000103
+t1393513757
+s259
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-A31F2AEEB63E4CF485BAF172.sh
+c00000000530F551D0000000000000039
+t1393513757
+s57
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app
+t1393516899
+s374
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app.dSYM
+t1393516898
+s102
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/GCPINViewController~ipad.nib
+t1393514079
+s136
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/GCPINViewController~iphone.nib
+t1393514079
+s136
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Info.plist
+t1393513757
+s1033
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox.png
+t1393513810
+s3303
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox@2x.png
+t1393513810
+s5397
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PkgInfo
+t1393513757
+s8
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp
+t1393516898
+s388912
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Settings.bundle
+t1393514530
+s136
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/en.lproj/InfoPlist.strings
+t1393513810
+s42
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/en.lproj/SAViewController.nib
+t1393516899
+s136
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/libPods.a
+c00000000530F555200000000000BF738
+t1393513810
+s784184
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.h
+c00000000530CC6DD0000000000000123
+t1393346269
+s291
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m
+c00000000530CC6DD000000000000036E
+t1393346269
+s878
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h
+c00000000530F61620000000000000167
+t1393516898
+s359
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m
+c00000000530F61620000000000000AF4
+t1393516898
+s2804
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist
+c00000000530CC6DD00000000000005DB
+t1393346269
+s1499
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch
+c00000000530CC6DD0000000000000141
+t1393346269
+s321
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/en.lproj/InfoPlist.strings
+c00000000530CC6DD000000000000002D
+t1393346269
+s45
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/en.lproj/SAViewController.xib
+c00000000530F61620000000000000D95
+t1393516898
+s3477
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m
+c00000000530CC6DD000000000000015E
+t1393346269
+s350
+
+N/Users/mbingham/Zighra/user_study/pinview/Settings.bundle
+c00000000530F57E60000000000000088
+t1393514470
+s136
+
+N/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.h
+c00000000530F5F980000000000000BC9
+t1393516440
+s3017
+
+N/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m
+c00000000530F60080000000000001E22
+t1393516552
+s7714
+
+N/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~ipad.xib
+c00000000530F565E000000000000248D
+t1393514078
+s9357
+
+N/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~iphone.xib
+c00000000530F565E0000000000002258
+t1393514078
+s8792
+
+N/Users/mbingham/Zighra/user_study/pinview/pinview/PINBox.png
+c00000000530CC6DD0000000000000CE7
+t1393346269
+s3303
+
+N/Users/mbingham/Zighra/user_study/pinview/pinview/PINBox@2x.png
+c00000000530CC6DD0000000000001515
+t1393346269
+s5397
+
+N/usr/lib/libSystem.B.dylib
+c0000000052F14000000000000000E6D0
+t1391542272
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000052F140100000000000012A00
+t1391542288
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052F13FF2000000000002E320
+t1391542258
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000052F140000000000000021860
+t1391542272
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052F1400F000000000001B620
+t1391542287
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000052F1400F00000000000BD920
+t1391542287
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052F14010000000000000A120
+t1391542288
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000052F14010000000000001D550
+t1391542288
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000052F1400F0000000000014EE0
+t1391542287
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052F140120000000000010380
+t1391542290
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052F14012000000000000C4C0
+t1391542290
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000052F1401000000000000357A0
+t1391542288
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052F14010000000000000C070
+t1391542288
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000052F140000000000000168C00
+t1391542272
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000052F1400F0000000000010630
+t1391542287
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000052F14011000000000001DF10
+t1391542289
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000052F140000000000000075B00
+t1391542272
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052F14000000000000007CC70
+t1391542272
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000052F1400000000000000766C0
+t1391542272
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000052F140110000000000044DC0
+t1391542289
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000052F140000000000000021FA0
+t1391542272
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000052F14011000000000002D900
+t1391542289
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052F14011000000000001E570
+t1391542289
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000052F14007000000000000CC70
+t1391542279
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052F1400A000000000000C3F0
+t1391542282
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000052F1401100000000000199F0
+t1391542289
+s104944
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4a46ee1499bfb841^556aee1499bfb841^---0#1#1#--18"Check dependencies36"D623FBBA-EB3B-4561-91D5-1D80DC5A7EB1-
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/GCPINViewController.o /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415209352.487538
+e415209352.564986
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/GCPINViewController.o
+x/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m
+d/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.h
+o/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:100:14: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        [controller presentModalViewController:navController animated:animated];
+o                    ^
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here
+o- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:130:15: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        [self dismissModalViewControllerAnimated:YES];
+o              ^
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m232"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/GCPINViewController.o pinview/GCPINViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler61e17c8897bfb841^94a3908897bfb841^-2555"/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:100:14: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        [controller presentModalViewController:navController animated:animated];                    ^In file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:130:15: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        [self dismissModalViewControllerAnimated:YES];              ^In file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@81"'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0-415209352#18446744073709551615#0#1(2@59"Method 'presentModalViewController:animated:' declared here-415209352#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^250#0#250#0#13300#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m0000000000000000^99#13#99#13#2800#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-415209352#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-415209352#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^253#0#253#0#13586#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m0000000000000000^129#14#129#14#3951#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@78"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m0000000000000000^3956"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/GCPINViewController.o pinview/GCPINViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources/i386 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-cpekfieztkwxptglfezlygvzmqeu/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/GCPINViewController.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/GCPINViewController.dia -c /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/GCPINViewController.o36"B28D8605-31A0-4A08-B462-ED5DD6474194-
+bF0F44ACC-5F45-4843-A4C8-DB8CDE793BB6
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415209698.429607
+e415209698.484293
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+o@property NSString *pin;
+o^
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m222"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o SampleApp/SAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerce186ee298bfb841^7ffa7be298bfb841^-525"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]@property NSString *pin;^/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed-415209698#18446744073709551615#0#1(2@93"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:-415209698#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m0000000000000000^10#8#10#8#183#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--2@69"Default property attribute 'assign' not appropriate for non-GC object-415209698#18446744073709551615#0#1(2@93"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:-415209698#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@74"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m0000000000000000^10#8#10#8#183#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@74"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m0000000000000000^3924"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o SampleApp/SAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources/i386 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-cpekfieztkwxptglfezlygvzmqeu/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o36"1DA73F65-35AA-45EF-9592-368242DFC176-
+b00006757-4504-4A0D-BB61-F49155D1EBA7
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAViewController.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415209698.429810
+e415209698.486317
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAViewController.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h
+d/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.h
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+o@property NSString *pin;
+o^
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m228"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAViewController.o SampleApp/SAViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler25246ee298bfb841^a1817ce298bfb841^-527"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]@property NSString *pin;^/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed-415209698#18446744073709551615#0#1(2@95"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:-415209698#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m0000000000000000^8#8#8#8#159#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--2@69"Default property attribute 'assign' not appropriate for non-GC object-415209698#18446744073709551615#0#1(2@95"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:-415209698#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m0000000000000000^8#8#8#8#159#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m0000000000000000^3942"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAViewController.o SampleApp/SAViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources/i386 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-cpekfieztkwxptglfezlygvzmqeu/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAViewController.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAViewController.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAViewController.o36"FF59F0ED-3D6D-4DDA-99DA-47B7058D74FF-
+b00006757-4504-4A0D-BB61-F49155D1EBA7
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415206557.836805
+e415206557.863058
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m204"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o SampleApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc268d69d8cbfb841^f5f1dc9d8cbfb841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m0000000000000000^3870"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o SampleApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources/i386 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-cpekfieztkwxptglfezlygvzmqeu/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/main.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o36"3429162F-CEF2-49DB-B9F5-B9A87252868B-
+bCD462EFB-3E24-42D6-B26C-05CE64737176
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/GCPINViewController.o /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415206557.914887
+e415206558.009380
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/GCPINViewController.o
+x/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m
+d/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.h
+o/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:100:14: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        [controller presentModalViewController:navController animated:animated];
+o                    ^
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here
+o- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:130:15: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        [self dismissModalViewControllerAnimated:YES];
+o              ^
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m236"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/GCPINViewController.o pinview/GCPINViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4353ea9d8cbfb841^b667029e8cbfb841^-2555"/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:100:14: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        [controller presentModalViewController:navController animated:animated];                    ^In file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:130:15: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        [self dismissModalViewControllerAnimated:YES];              ^In file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@81"'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0-415206558#18446744073709551615#0#1(2@59"Method 'presentModalViewController:animated:' declared here-415206558#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^250#0#250#0#13300#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m0000000000000000^99#13#99#13#2800#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-415206558#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-415206558#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^253#0#253#0#13586#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m0000000000000000^129#14#129#14#3951#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@78"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m0000000000000000^3967"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/GCPINViewController.o pinview/GCPINViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources/x86_64 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-eujnnsqiqsbxbgbpvnqpsgeqgtot/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/GCPINViewController.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/GCPINViewController.dia -c /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/GCPINViewController.o36"947162CB-456E-4B3B-A0C4-617960A57B51-
+bCD462EFB-3E24-42D6-B26C-05CE64737176
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415206557.891764
+e415206557.962854
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+o@property NSString *pin;
+o^
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m226"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o SampleApp/SAAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf46ae49d8cbfb841^e17cf69d8cbfb841^-525"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]@property NSString *pin;^/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed-415206557#18446744073709551615#0#1(2@93"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:-415206557#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m0000000000000000^10#8#10#8#183#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--2@69"Default property attribute 'assign' not appropriate for non-GC object-415206557#18446744073709551615#0#1(2@93"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:-415206557#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@74"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m0000000000000000^10#8#10#8#183#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@74"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m0000000000000000^3935"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o SampleApp/SAAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources/x86_64 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-eujnnsqiqsbxbgbpvnqpsgeqgtot/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o36"60DCB836-68F0-485A-81DC-99889EE4B56E-
+bCD462EFB-3E24-42D6-B26C-05CE64737176
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAViewController.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415206557.913106
+e415206557.984672
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAViewController.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h
+d/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.h
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+o@property NSString *pin;
+o^
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:48:21: warning: unused variable 'options' [-Wunused-variable]
+o      NSDictionary *options = @{@"profile_name" : @"profile_name",
+o                    ^
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m232"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAViewController.o SampleApp/SAViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler096cea9d8cbfb841^be12fc9d8cbfb841^-749"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]@property NSString *pin;^/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:48:21: warning: unused variable 'options' [-Wunused-variable]      NSDictionary *options = @{@"profile_name" : @"profile_name",                    ^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed-415206557#18446744073709551615#0#1(2@95"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:-415206557#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m0000000000000000^8#8#8#8#159#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--2@69"Default property attribute 'assign' not appropriate for non-GC object-415206557#18446744073709551615#0#1(2@95"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:-415206557#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m0000000000000000^8#8#8#8#159#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--2@25"Unused variable 'options'-415206557#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m0000000000000000^47#20#47#20#1542#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m0000000000000000^3953"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAViewController.o SampleApp/SAViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources/x86_64 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-eujnnsqiqsbxbgbpvnqpsgeqgtot/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAViewController.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAViewController.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAViewController.o36"7F7A8708-6543-46D5-B4B0-A22BB2D43CC3-
+bCD462EFB-3E24-42D6-B26C-05CE64737176
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415206557.864512
+e415206557.890476
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m208"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o SampleApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6170dd9d8cbfb841^f5f6e39d8cbfb841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m0000000000000000^3881"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o SampleApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources/x86_64 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-eujnnsqiqsbxbgbpvnqpsgeqgtot/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o36"29126758-CA57-4B86-986D-3EC04A5EF2C2-
+bCD462EFB-3E24-42D6-B26C-05CE64737176
+
+CCompileXIB /Users/mbingham/Zighra/user_study/pinview/SampleApp/en.lproj/SAViewController.xib
+s415209698.558844
+e415209699.086843
+r1
+xCompileXIB
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/en.lproj/SAViewController.xib
+o2014-02-27 11:01:38.797 Interface Builder Cocoa Touch Tool[1825:303] CFPreferences: user home directory at file:///Users/mbingham/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-02-27 11:01:39.041 Interface Builder Cocoa Touch Tool[1828:303] CFPreferences: user home directory at file:///Users/mbingham/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /Users/mbingham/Zighra/user_study/pinview/SampleApp/en.lproj/SAViewController.xib50"CompileXIB SampleApp/en.lproj/SAViewController.xib4b1e8fe298bfb841^533c16e398bfb841^-464"2014-02-27 11:01:38.797 Interface Builder Cocoa Touch Tool[1825:303] CFPreferences: user home directory at file:///Users/mbingham/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-02-27 11:01:39.041 Interface Builder Cocoa Touch Tool[1828:303] CFPreferences: user home directory at file:///Users/mbingham/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@88"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/en.lproj/SAViewController.xib0000000000000000^815"CompileXIB SampleApp/en.lproj/SAViewController.xib    cd /Users/mbingham/Zighra/user_study/pinview    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/en.lproj/SAViewController.nib /Users/mbingham/Zighra/user_study/pinview/SampleApp/en.lproj/SAViewController.xib36"59FEBF3F-CBB8-4CDF-A8EC-5E34B684B455-
+b00006757-4504-4A0D-BB61-F49155D1EBA7
+
+CCompileXIB /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~ipad.xib
+s415206878.285908
+e415206879.417256
+r1
+xCompileXIB
+x/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~ipad.xib
+o2014-02-27 10:14:38.981 Interface Builder Cocoa Touch Tool[1283:303] CFPreferences: user home directory at file:///Users/mbingham/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-02-27 10:14:39.348 Interface Builder Cocoa Touch Tool[1285:303] CFPreferences: user home directory at file:///Users/mbingham/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compiling /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~ipad.xib47"CompileXIB pinview/GCPINViewController~ipad.xibd93d49de8dbfb841^e1d16adf8dbfb841^-464"2014-02-27 10:14:38.981 Interface Builder Cocoa Touch Tool[1283:303] CFPreferences: user home directory at file:///Users/mbingham/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-02-27 10:14:39.348 Interface Builder Cocoa Touch Tool[1285:303] CFPreferences: user home directory at file:///Users/mbingham/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@85"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~ipad.xib0000000000000000^808"CompileXIB pinview/GCPINViewController~ipad.xib    cd /Users/mbingham/Zighra/user_study/pinview    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/GCPINViewController~ipad.nib /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~ipad.xib36"AC0B5781-864A-4604-A0B3-878C25B2E751-
+b6396E7EC-10BF-4950-A597-99769EDE4069
+
+CCompileXIB /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~iphone.xib
+s415206878.285747
+e415206879.417460
+r1
+xCompileXIB
+x/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~iphone.xib
+o2014-02-27 10:14:38.981 Interface Builder Cocoa Touch Tool[1284:303] CFPreferences: user home directory at file:///Users/mbingham/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-02-27 10:14:39.348 Interface Builder Cocoa Touch Tool[1286:303] CFPreferences: user home directory at file:///Users/mbingham/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compiling /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~iphone.xib49"CompileXIB pinview/GCPINViewController~iphone.xib1e3649de8dbfb841^0ddf6adf8dbfb841^-464"2014-02-27 10:14:38.981 Interface Builder Cocoa Touch Tool[1284:303] CFPreferences: user home directory at file:///Users/mbingham/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-02-27 10:14:39.348 Interface Builder Cocoa Touch Tool[1286:303] CFPreferences: user home directory at file:///Users/mbingham/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@87"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~iphone.xib0000000000000000^814"CompileXIB pinview/GCPINViewController~iphone.xib    cd /Users/mbingham/Zighra/user_study/pinview    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/GCPINViewController~iphone.nib /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~iphone.xib36"FDD01FC2-FC8C-49F1-8CD4-22D7951C0965-
+b6396E7EC-10BF-4950-A597-99769EDE4069
+
+CCopyStringsFile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/en.lproj/InfoPlist.strings SampleApp/en.lproj/InfoPlist.strings
+s415206610.212540
+e415206610.216309
+r1
+xCopyStringsFile
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/en.lproj/InfoPlist.strings
+xSampleApp/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy SampleApp/en.lproj/InfoPlist.strings140"CopyStringsFile SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/en.lproj/InfoPlist.strings SampleApp/en.lproj/InfoPlist.stringsf59e36d28cbfb841^195437d28cbfb841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/en.lproj/InfoPlist.strings0000000000000000^627"CopyStringsFile SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/en.lproj/InfoPlist.strings SampleApp/en.lproj/InfoPlist.strings    cd /Users/mbingham/Zighra/user_study/pinview    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/en.lproj -- SampleApp/en.lproj/InfoPlist.strings36"01B1C109-1C77-4BB6-BBEE-1F4234514516-
+b73D1D39C-E70C-4C4F-BC1A-94281EB54933
+
+CCpResource Settings.bundle SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Settings.bundle
+s415207330.663309
+e415207330.664428
+r1
+xCpResource
+xSettings.bundle
+xSampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Settings.bundle
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Settings.bundle103"CpResource Settings.bundle SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Settings.bundle6fd9a9a28fbfb841^81b3aca28fbfb841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Settings.bundle/0000000000000000^621"CpResource Settings.bundle SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Settings.bundle    cd /Users/mbingham/Zighra/user_study/pinview    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mbingham/Zighra/user_study/pinview/Settings.bundle /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app36"2B663D02-A2ED-486C-995D-B1A51E019A20-
+b7CEBF43C-67B4-498F-816D-39C83E2A2DA7
+
+CCpResource pinview/PINBox.png SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox.png
+s415206610.213517
+e415206610.215596
+r1
+xCpResource
+xpinview/PINBox.png
+xSampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox.png101"CpResource pinview/PINBox.png SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox.png59be36d28cbfb841^5d3537d28cbfb841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox.png00349c1bddffdf42^622"CpResource pinview/PINBox.png SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox.png    cd /Users/mbingham/Zighra/user_study/pinview    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mbingham/Zighra/user_study/pinview/pinview/PINBox.png /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app36"45389F91-8128-4818-A4A8-95AD96025557-
+b73D1D39C-E70C-4C4F-BC1A-94281EB54933
+
+CCpResource pinview/PINBox@2x.png SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox@2x.png
+s415206610.213570
+e415206610.216046
+r1
+xCpResource
+xpinview/PINBox@2x.png
+xSampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox@2x.png107"CpResource pinview/PINBox@2x.png SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox@2x.png6fd836d28cbfb841^cf4937d28cbfb841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox@2x.png00349c1bddffdf42^631"CpResource pinview/PINBox@2x.png SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PINBox@2x.png    cd /Users/mbingham/Zighra/user_study/pinview    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mbingham/Zighra/user_study/pinview/pinview/PINBox@2x.png /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app36"7DD07AF0-CB98-49BF-A192-BD3F2BC7279F-
+b73D1D39C-E70C-4C4F-BC1A-94281EB54933
+
+CCreateUniversalBinary /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp normal i386\ x86_64
+r0
+
+CGenerateDSYMFile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app.dSYM /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp
+s415209698.528807
+e415209698.558302
+r1
+xGenerateDSYMFile
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app.dSYM
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Generate /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app.dSYM153"GenerateDSYMFile SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app.dSYM SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleAppb96d87e298bfb841^abed8ee298bfb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app.dSYM/0000000000000000^722"GenerateDSYMFile SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app.dSYM SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp    cd /Users/mbingham/Zighra/user_study/pinview    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app.dSYM36"B9FBB8F4-5E1F-46F3-BFB4-4A770416EA5C-
+b00006757-4504-4A0D-BB61-F49155D1EBA7
+
+CLd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp normal i386
+s415206558.010031
+e415206558.071868
+r1
+xLd
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp
+xnormal
+xi386
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAViewController.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/GCPINViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/libPods.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"Link /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp128"Ld SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp normal i38688a0029e8cbfb841^4f5a189e8cbfb841^---0#0#1#--1704"Ld SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp normal i386    cd /Users/mbingham/Zighra/user_study/pinview    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -filelist /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AudioToolbox -framework UIKit -framework Foundation -framework CoreGraphics -lPods -Xlinker -dependency_info -Xlinker /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp_dependency_info.dat -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp36"9EAD8E07-DA28-491C-A060-CC8CCA4734BD-
+bCD462EFB-3E24-42D6-B26C-05CE64737176
+
+CLd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp normal x86_64
+s415206558.010345
+e415206558.039404
+r0
+xLd
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp
+xnormal
+xx86_64
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAViewController.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/GCPINViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/libPods.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+oUndefined symbols for architecture x86_64:
+o  "_OBJC_CLASS_$_AFHTTPClient", referenced from:
+o      objc-class-ref in SAViewController.o
+old: symbol(s) not found for architecture x86_64
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection162"Link /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp132"Ld SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp normal x86_6438ba029e8cbfb841^a9150a9e8cbfb841^-263"Undefined symbols for architecture x86_64:  "_OBJC_CLASS_$_AFHTTPClient", referenced from:      objc-class-ref in SAViewController.old: symbol(s) not found for architecture x86_64clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@46""_OBJC_CLASS_$_AFHTTPClient", referenced from:-415206558#43#49#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@36"Objc-class-ref in SAViewController.o-415206558#92#43#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@43"Symbol(s) not found for architecture x86_64-415206558#135#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-415206558#183#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1716"Ld SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp normal x86_64    cd /Users/mbingham/Zighra/user_study/pinview    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -filelist /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AudioToolbox -framework UIKit -framework Foundation -framework CoreGraphics -lPods -Xlinker -dependency_info -Xlinker /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp_dependency_info.dat -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp36"A8FBE115-7160-4A4D-89EC-9BC90874CB42-
+bCD462EFB-3E24-42D6-B26C-05CE64737176
+
+CLd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp normal i386
+s415209698.487628
+e415209698.527919
+r1
+xLd
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp
+xnormal
+xi386
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SAViewController.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/GCPINViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/libPods.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp85"Ld SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp normal i3868ae37ce298bfb841^0e2c87e298bfb841^---0#0#1#--1618"Ld SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp normal i386    cd /Users/mbingham/Zighra/user_study/pinview    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -filelist /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AudioToolbox -framework UIKit -framework Foundation -framework CoreGraphics -lPods -Xlinker -dependency_info -Xlinker /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp_dependency_info.dat -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/SampleApp36"0B4AEF51-6F3B-48E8-84A1-E49F4B90C374-
+b00006757-4504-4A0D-BB61-F49155D1EBA7
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh
+s415209748.931834
+e415209748.942446
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'166"PhaseScriptExecution Check\ Pods\ Manifest.lock SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh59ddee1499bfb841^3145f11499bfb841^---0#0#1#--392"PhaseScriptExecution Check\ Pods\ Manifest.lock SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh    cd /Users/mbingham/Zighra/user_study/pinview    /bin/sh -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh36"660B4561-6F88-4252-A1AC-0E510ADE5303-
+bDC8B08C0-8853-4D0E-847F-192290AAA3EF
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-A31F2AEEB63E4CF485BAF172.sh
+s415209748.945228
+e415209749.019559
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-A31F2AEEB63E4CF485BAF172.sh
+obuilding file list ... done
+o
+osent 29 bytes  received 20 bytes  98.00 bytes/sec
+ototal size is 0  speedup is 0.00
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'161"PhaseScriptExecution Copy\ Pods\ Resources SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-A31F2AEEB63E4CF485BAF172.sha450f21499bfb841^3203051599bfb841^-112"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.003(21%IDEActivityLogMessage2@28"building file list ... done-415209748#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-415209749#29#50#-0#-----2@33"total size is 0  speedup is 0.00-415209749#79#33#-0#-----0#0#1#--387"PhaseScriptExecution Copy\ Pods\ Resources SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-A31F2AEEB63E4CF485BAF172.sh    cd /Users/mbingham/Zighra/user_study/pinview    /bin/sh -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/Script-A31F2AEEB63E4CF485BAF172.sh36"C0DDD679-2C9F-48A2-AC69-432A7F205456-
+bDC8B08C0-8853-4D0E-847F-192290AAA3EF
+
+CProcessInfoPlistFile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Info.plist /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist
+s415206557.557086
+e415206557.558434
+r1
+xProcessInfoPlistFile
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Info.plist
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Process /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist123"ProcessInfoPlistFile SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Info.plist SampleApp/SampleApp-Info.plist9faa8e9d8cbfb841^edf58e9d8cbfb841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist0000000000000000^772"ProcessInfoPlistFile SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Info.plist SampleApp/SampleApp-Info.plist    cd /Users/mbingham/Zighra/user_study/pinview    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist -genpkginfo /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app/Info.plist36"E4B5F752-10E5-4A19-BC0E-072739649ED2-
+bCD462EFB-3E24-42D6-B26C-05CE64737176
+
+CProcessPCH /Users/mbingham/Library/Developer/Xcode/DerivedData/SampleApp-cqytqipypleefvevdykpsfxcbswe/Index/PrecompiledHeaders/SampleApp-Prefix-dnnjbccmaqwseogqjxwerhcrdotk_ast/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mbingham/Library/Developer/Xcode/DerivedData/SampleApp-cqytqipypleefvevdykpsfxcbswe/Index/PrecompiledHeaders/SampleApp-Prefix-ftycdmluldhshzconwsdqgbbgigo_ast/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-cpekfieztkwxptglfezlygvzmqeu/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415206557.570280
+e415206557.833667
+r1
+xProcessPCH
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-cpekfieztkwxptglfezlygvzmqeu/SampleApp-Prefix.pch.pch
+xSampleApp/SampleApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile SampleApp/SampleApp-Prefix.pch229"ProcessPCH SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-cpekfieztkwxptglfezlygvzmqeu/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfd15929d8cbfb841^db6bd59d8cbfb841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch0000000000000000^3772"ProcessPCH SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-cpekfieztkwxptglfezlygvzmqeu/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources/i386 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-cpekfieztkwxptglfezlygvzmqeu/SampleApp-Prefix.pch.dia -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-cpekfieztkwxptglfezlygvzmqeu/SampleApp-Prefix.pch.d -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-cpekfieztkwxptglfezlygvzmqeu/SampleApp-Prefix.pch.pch36"2FBEB0BA-0B2C-42F5-9C15-71B4F37CBF4F-
+bCD462EFB-3E24-42D6-B26C-05CE64737176
+
+CProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-eujnnsqiqsbxbgbpvnqpsgeqgtot/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415206557.570569
+e415206557.834649
+r1
+xProcessPCH
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-eujnnsqiqsbxbgbpvnqpsgeqgtot/SampleApp-Prefix.pch.pch
+xSampleApp/SampleApp-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile SampleApp/SampleApp-Prefix.pch231"ProcessPCH SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-eujnnsqiqsbxbgbpvnqpsgeqgtot/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3927929d8cbfb841^26fdd59d8cbfb841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch0000000000000000^3775"ProcessPCH SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-eujnnsqiqsbxbgbpvnqpsgeqgtot/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources/x86_64 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphonesimulator/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-eujnnsqiqsbxbgbpvnqpsgeqgtot/SampleApp-Prefix.pch.dia -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-eujnnsqiqsbxbgbpvnqpsgeqgtot/SampleApp-Prefix.pch.d -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-eujnnsqiqsbxbgbpvnqpsgeqgtot/SampleApp-Prefix.pch.pch36"203A5FEC-A6D7-4D4E-913F-BA2ABD155998-
+bCD462EFB-3E24-42D6-B26C-05CE64737176
+
+CTouch /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app
+s415209699.156222
+e415209699.160722
+r1
+xTouch
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Touch /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app66"Touch SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app560b28e398bfb841^742629e398bfb841^---0#0#1#--436"Touch SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app    cd /Users/mbingham/Zighra/user_study/pinview    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphonesimulator/SampleApp.app36"4E899B70-3903-4720-97C3-7477628B6771-
+b00006757-4504-4A0D-BB61-F49155D1EBA7
+

@@ -1,0 +1,614 @@
+TSampleApp
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/Info.plist /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/ResourceRules.plist
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh
+cProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-dgpkvgngdqxiguderkkvwtyaacub/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-chiqonuizvnvunbkoltymwczxudo/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/main.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAAppDelegate.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAViewController.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/GCPINViewController.o /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/main.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAAppDelegate.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAViewController.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/GCPINViewController.o /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SampleApp normal armv7
+cLd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SampleApp normal armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c0000000052F150710000000000000096
+t1391546481
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c0000000052F15071000000000000036B
+t1391546481
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052F1507100000000000001A0
+t1391546481
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000052F150730000000000CF72E0
+t1391546483
+s13595360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052F1507300000000004D63C0
+t1391546483
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052F150740000000000A92BC0
+t1391546484
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052F1507900000000025A5AC0
+t1391546489
+s39475904
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-chiqonuizvnvunbkoltymwczxudo/SampleApp-Prefix.pch.pch
+t1393448484
+s5275752
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-dgpkvgngdqxiguderkkvwtyaacub/SampleApp-Prefix.pch.pch
+t1393448484
+s5275632
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/GCPINViewController.o
+t1393448484
+s87128
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAAppDelegate.o
+t1393448484
+s64404
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAViewController.o
+t1393448484
+s60320
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SampleApp
+t2
+s0
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SampleApp.LinkFileList
+c00000000530E56230000000000000270
+t1393448483
+s624
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/main.o
+t1393448484
+s3284
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/GCPINViewController.o
+t1393448484
+s87128
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAAppDelegate.o
+t1393448484
+s64404
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAViewController.o
+t1393448484
+s60320
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SampleApp
+t2
+s0
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SampleApp.LinkFileList
+c00000000530E56230000000000000274
+t1393448483
+s628
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/main.o
+t1393448484
+s3284
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh
+c00000000530E56230000000000000103
+t1393448483
+s259
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/Info.plist
+t2
+s0
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/PkgInfo
+t2
+s0
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/ResourceRules.plist
+t2
+s0
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods.a
+c00000000530E562400000000000BFD40
+t1393448484
+s785728
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m
+c00000000530CC6DD000000000000036E
+t1393346269
+s878
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m
+c00000000530E54D80000000000000977
+t1393448152
+s2423
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist
+c00000000530CC6DD00000000000005DB
+t1393346269
+s1499
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch
+c00000000530CC6DD0000000000000141
+t1393346269
+s321
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m
+c00000000530CC6DD000000000000015E
+t1393346269
+s350
+
+N/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m
+c00000000530E54D80000000000001D44
+t1393448152
+s7492
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf051dfa38dbeb841^c53cefa38dbeb841^---0#1#1#--18"Check dependencies36"DAB711B6-BF1D-4ABD-8067-11EA1A5B0B64-
+
+CCodeSign /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app
+r0
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/GCPINViewController.o /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415141284.466272
+e415141284.587542
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/GCPINViewController.o
+x/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m
+d/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.h
+o/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:100:14: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        [controller presentModalViewController:navController animated:animated];
+o                    ^
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here
+o- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:130:15: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        [self dismissModalViewControllerAnimated:YES];
+o              ^
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m227"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/GCPINViewController.o pinview/GCPINViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler467c77a48dbeb841^64ac96a48dbeb841^-2471"/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:100:14: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        [controller presentModalViewController:navController animated:animated];                    ^In file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:130:15: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        [self dismissModalViewControllerAnimated:YES];              ^In file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@81"'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0-415141284#18446744073709551615#0#1(2@59"Method 'presentModalViewController:animated:' declared here-415141284#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@177"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^250#0#250#0#13300#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m0000000000000000^99#13#99#13#2800#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-415141284#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-415141284#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@177"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^253#0#253#0#13586#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m0000000000000000^129#14#129#14#3951#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@78"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m0000000000000000^3783"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/GCPINViewController.o pinview/GCPINViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources/armv7 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-dgpkvgngdqxiguderkkvwtyaacub/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/GCPINViewController.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/GCPINViewController.dia -c /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/GCPINViewController.o36"B8C19E83-D10A-4C89-8835-5ADDD8FB374F-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAAppDelegate.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415141284.425905
+e415141284.498035
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAAppDelegate.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+o@property NSString *pin;
+o^
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m217"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAAppDelegate.o SampleApp/SAAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler96266da48dbeb841^fcab7fa48dbeb841^-525"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]@property NSString *pin;^/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed-415141284#18446744073709551615#0#1(2@93"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:-415141284#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m0000000000000000^10#8#10#8#183#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--2@69"Default property attribute 'assign' not appropriate for non-GC object-415141284#18446744073709551615#0#1(2@93"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:-415141284#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@74"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m0000000000000000^10#8#10#8#183#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@74"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m0000000000000000^3751"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAAppDelegate.o SampleApp/SAAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources/armv7 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-dgpkvgngdqxiguderkkvwtyaacub/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAAppDelegate.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAAppDelegate.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAAppDelegate.o36"7A508067-A822-4544-847A-AF6F8E93B1A6-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAViewController.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415141284.430418
+e415141284.502854
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAViewController.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h
+d/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.h
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+o@property NSString *pin;
+o^
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m223"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAViewController.o SampleApp/SAViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera94b6ea48dbeb841^15fe80a48dbeb841^-527"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]@property NSString *pin;^/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed-415141284#18446744073709551615#0#1(2@95"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:-415141284#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m0000000000000000^8#8#8#8#159#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--2@69"Default property attribute 'assign' not appropriate for non-GC object-415141284#18446744073709551615#0#1(2@95"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:-415141284#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m0000000000000000^8#8#8#8#159#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m0000000000000000^3769"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAViewController.o SampleApp/SAViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources/armv7 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-dgpkvgngdqxiguderkkvwtyaacub/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAViewController.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAViewController.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAViewController.o36"C35DB2B8-75BD-495F-96B5-8C5C5EFCF879-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/main.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415141284.404194
+e415141284.430092
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/main.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m199"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/main.o SampleApp/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5f9567a48dbeb841^95d86da48dbeb841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m0000000000000000^3697"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/main.o SampleApp/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources/armv7 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-dgpkvgngdqxiguderkkvwtyaacub/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/main.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/main.o36"081741A6-E800-472E-B373-168E10E819C7-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/GCPINViewController.o /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415141284.572137
+e415141284.673304
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/GCPINViewController.o
+x/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m
+d/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.h
+o/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:100:14: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        [controller presentModalViewController:navController animated:animated];
+o                    ^
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here
+o- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:130:15: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        [self dismissModalViewControllerAnimated:YES];
+o              ^
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m229"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/GCPINViewController.o pinview/GCPINViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerea9592a48dbeb841^855daca48dbeb841^-2471"/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:100:14: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        [controller presentModalViewController:navController animated:animated];                    ^In file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:130:15: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        [self dismissModalViewControllerAnimated:YES];              ^In file included from /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m:1:In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch:12:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@81"'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0-415141284#18446744073709551615#0#1(2@59"Method 'presentModalViewController:animated:' declared here-415141284#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@177"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^250#0#250#0#13300#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m0000000000000000^99#13#99#13#2800#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-415141284#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-415141284#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@177"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^253#0#253#0#13586#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m0000000000000000^129#14#129#14#3951#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@78"file:///Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m0000000000000000^3790"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/GCPINViewController.o pinview/GCPINViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-chiqonuizvnvunbkoltymwczxudo/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/GCPINViewController.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/GCPINViewController.dia -c /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/GCPINViewController.o36"E3378615-6537-4BFF-B8D6-E67EF3380D6E-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAAppDelegate.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415141284.503086
+e415141284.570889
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAAppDelegate.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+o@property NSString *pin;
+o^
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m219"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAAppDelegate.o SampleApp/SAAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerd5ed80a48dbeb841^174692a48dbeb841^-525"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]@property NSString *pin;^/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed-415141284#18446744073709551615#0#1(2@93"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:-415141284#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m0000000000000000^10#8#10#8#183#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--2@69"Default property attribute 'assign' not appropriate for non-GC object-415141284#18446744073709551615#0#1(2@93"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m:11:-415141284#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@74"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m0000000000000000^10#8#10#8#183#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@74"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m0000000000000000^3758"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAAppDelegate.o SampleApp/SAAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-chiqonuizvnvunbkoltymwczxudo/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAAppDelegate.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAAppDelegate.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAAppDelegate.o36"48581ECC-DE6E-45CC-9F73-FA91FF0CF484-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAViewController.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415141284.526587
+e415141284.601445
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAViewController.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h
+d/Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController.h
+oIn file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+o@property NSString *pin;
+o^
+o/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m225"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAViewController.o SampleApp/SAViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerd0ec86a48dbeb841^6b4a9aa48dbeb841^-527"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]@property NSString *pin;^/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h:13:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed-415141284#18446744073709551615#0#1(2@95"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:-415141284#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m0000000000000000^8#8#8#8#159#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--2@69"Default property attribute 'assign' not appropriate for non-GC object-415141284#18446744073709551615#0#1(2@95"In file included from /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m:9:-415141284#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m0000000000000000^8#8#8#8#159#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.h0000000000000000^12#0#12#0#224#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m0000000000000000^3776"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAViewController.o SampleApp/SAViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-chiqonuizvnvunbkoltymwczxudo/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAViewController.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAViewController.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/SAViewController.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAViewController.o36"4F2A2080-7EB9-4CDE-ABBC-C84E089DA268-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CCompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/main.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415141284.498385
+e415141284.525290
+r1
+xCompileC
+xSampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/main.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SAAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m201"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/main.o SampleApp/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler72f97fa48dbeb841^408a86a48dbeb841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m0000000000000000^3704"CompileC SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/main.o SampleApp/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-chiqonuizvnvunbkoltymwczxudo/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/main.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/main.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/main.o36"018EAFCA-9EE9-42E7-8F33-E606F4734312-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CCompileXIB /Users/mbingham/Zighra/user_study/pinview/SampleApp/en.lproj/SAViewController.xib
+r0
+
+CCompileXIB /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~ipad.xib
+r0
+
+CCompileXIB /Users/mbingham/Zighra/user_study/pinview/pinview/GCPINViewController~iphone.xib
+r0
+
+CCopyPNGFile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/PINBox.png pinview/PINBox.png
+r0
+
+CCopyPNGFile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/PINBox@2x.png pinview/PINBox@2x.png
+r0
+
+CCopyStringsFile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/en.lproj/InfoPlist.strings SampleApp/en.lproj/InfoPlist.strings
+r0
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/ResourceRules.plist
+s415141283.936665
+e415141283.937259
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xSampleApp/Build/Products/Debug-iphoneos/SampleApp.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/ResourceRules.plist206"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/ResourceRules.plist0fd2efa38dbeb841^bbf0efa38dbeb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/ResourceRules.plist0034e460dfffdf42^774"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/ResourceRules.plist    cd /Users/mbingham/Zighra/user_study/pinview    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app36"93E81F0E-38F1-44F8-B99C-182EF043BE18-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CCreateUniversalBinary /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/SampleApp normal armv7\ armv7s
+r0
+
+CGenerateDSYMFile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app.dSYM /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/SampleApp
+r0
+
+CLd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SampleApp normal armv7
+s415141284.674018
+e415141284.703406
+r0
+xLd
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SampleApp
+xnormal
+xarmv7
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SampleApp.LinkFileList
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/main.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAAppDelegate.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SAViewController.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/GCPINViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+old: warning: ignoring file /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods.a, file was built for archive which is not the architecture being linked (armv7): /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods.a
+oUndefined symbols for architecture armv7:
+o  "_OBJC_CLASS_$_AFHTTPClient", referenced from:
+o      objc-class-ref in SAViewController.o
+old: symbol(s) not found for architecture armv7
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Link /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SampleApp123"Ld SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SampleApp normal armv7809caca48dbeb841^ee05baa48dbeb841^-552"ld: warning: ignoring file /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods.a, file was built for archive which is not the architecture being linked (armv7): /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods.aUndefined symbols for architecture armv7:  "_OBJC_CLASS_$_AFHTTPClient", referenced from:      objc-class-ref in SAViewController.old: symbol(s) not found for architecture armv7clang: error: linker command failed with exit code 1 (use -v to see invocation)5(21%IDEActivityLogMessage2@277"Ignoring file /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods.a, file was built for archive which is not the architecture being linked (armv7): /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods.a-415141284#0#291#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@46""_OBJC_CLASS_$_AFHTTPClient", referenced from:-415141284#333#49#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@36"Objc-class-ref in SAViewController.o-415141284#382#43#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@42"Symbol(s) not found for architecture armv7-415141284#425#47#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-415141284#472#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1587"Ld SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SampleApp normal armv7    cd /Users/mbingham/Zighra/user_study/pinview    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -filelist /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SampleApp.LinkFileList -dead_strip -ObjC -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-link-runtime -miphoneos-version-min=6.0 -framework AudioToolbox -framework UIKit -framework Foundation -framework CoreGraphics -lPods -Xlinker -dependency_info -Xlinker /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SampleApp_dependency_info.dat -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7/SampleApp36"8D26D63D-C2CC-4912-8193-7A72366C29DF-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CLd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SampleApp normal armv7s
+s415141284.674307
+e415141284.732100
+r1
+xLd
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SampleApp
+xnormal
+xarmv7s
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SampleApp.LinkFileList
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/main.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAAppDelegate.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SAViewController.o
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/GCPINViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Link /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SampleApp125"Ld SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SampleApp normal armv7sc0b4aca48dbeb841^71aac1a48dbeb841^---0#0#1#--1593"Ld SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SampleApp normal armv7s    cd /Users/mbingham/Zighra/user_study/pinview    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -filelist /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SampleApp.LinkFileList -dead_strip -ObjC -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-link-runtime -miphoneos-version-min=6.0 -framework AudioToolbox -framework UIKit -framework Foundation -framework CoreGraphics -lPods -Xlinker -dependency_info -Xlinker /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SampleApp_dependency_info.dat -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/armv7s/SampleApp36"BC21D76C-160C-4BEF-A094-045BEB206BC6-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh
+s415141283.938039
+e415141283.955190
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'159"PhaseScriptExecution Check\ Pods\ Manifest.lock SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh9d67f0a38dbeb841^01a6f4a38dbeb841^---0#0#1#--378"PhaseScriptExecution Check\ Pods\ Manifest.lock SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh    cd /Users/mbingham/Zighra/user_study/pinview    /bin/sh -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Script-50CB8D7214B4433DAFA76E06.sh36"0AF2CF55-2021-4E2C-B83C-9761533CEBAF-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Script-A31F2AEEB63E4CF485BAF172.sh
+r0
+
+CProcessInfoPlistFile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/Info.plist /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist
+s415141283.935113
+e415141283.936339
+r1
+xProcessInfoPlistFile
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/Info.plist
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Process /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist116"ProcessInfoPlistFile SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/Info.plist SampleApp/SampleApp-Info.plist3f6eefa38dbeb841^a2b4efa38dbeb841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist0000000000000000^872"ProcessInfoPlistFile SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/Info.plist SampleApp/SampleApp-Info.plist    cd /Users/mbingham/Zighra/user_study/pinview    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Info.plist -genpkginfo /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/ResourceRules.plist -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/Info.plist36"21E3828F-C46E-49C3-B5E5-D1D65E6C4DC3-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CProcessPCH /Users/mbingham/Library/Developer/Xcode/DerivedData/SampleApp-cqytqipypleefvevdykpsfxcbswe/Index/PrecompiledHeaders/SampleApp-Prefix-brbdaeeoeetehkgtzlfmkztlbysf_ast/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mbingham/Library/Developer/Xcode/DerivedData/SampleApp-cqytqipypleefvevdykpsfxcbswe/Index/PrecompiledHeaders/SampleApp-Prefix-hjbzkjfrftwmlbezfvhtznquarkp_ast/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-chiqonuizvnvunbkoltymwczxudo/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415141283.958578
+e415141284.361641
+r1
+xProcessPCH
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-chiqonuizvnvunbkoltymwczxudo/SampleApp-Prefix.pch.pch
+xSampleApp/SampleApp-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile SampleApp/SampleApp-Prefix.pch231"ProcessPCH SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-chiqonuizvnvunbkoltymwczxudo/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler137ef5a38dbeb841^dd965ca48dbeb841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch0000000000000000^3626"ProcessPCH SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-chiqonuizvnvunbkoltymwczxudo/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-chiqonuizvnvunbkoltymwczxudo/SampleApp-Prefix.pch.dia -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-chiqonuizvnvunbkoltymwczxudo/SampleApp-Prefix.pch.d -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-chiqonuizvnvunbkoltymwczxudo/SampleApp-Prefix.pch.pch36"ECA8CAC3-B3F0-4675-8566-7A9CE1F55ABF-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-dgpkvgngdqxiguderkkvwtyaacub/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415141283.957203
+e415141284.351419
+r1
+xProcessPCH
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-dgpkvgngdqxiguderkkvwtyaacub/SampleApp-Prefix.pch.pch
+xSampleApp/SampleApp-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile SampleApp/SampleApp-Prefix.pch230"ProcessPCH SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-dgpkvgngdqxiguderkkvwtyaacub/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4e27f5a38dbeb841^b2d959a48dbeb841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch0000000000000000^3623"ProcessPCH SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-dgpkvgngdqxiguderkkvwtyaacub/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources/armv7 -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -isystem/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-dgpkvgngdqxiguderkkvwtyaacub/SampleApp-Prefix.pch.dia -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-dgpkvgngdqxiguderkkvwtyaacub/SampleApp-Prefix.pch.d -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/SampleApp-Prefix.pch -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/SampleApp-Prefix-dgpkvgngdqxiguderkkvwtyaacub/SampleApp-Prefix.pch.pch36"7DF4214E-D041-42D6-94B7-1DDEBFACE73F-
+bFDD390DE-75AB-49FB-A698-5A8DF17E18D3
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/SampleApp.xcent
+r0
+
+CProcessProductPackaging /Users/mbingham/Library/MobileDevice/Provisioning\ Profiles/36BB09E3-FD01-464A-99D9-D8145DE787B7.mobileprovision /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app/embedded.mobileprovision
+r0
+
+CTouch /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/SampleApp.app
+r0
+

@@ -1,0 +1,579 @@
+TPods-AFNetworking
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gfsafnrufxoazsbsxezqtmjnlgij/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPClient.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPClient.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFImageRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFJSONRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFPropertyListRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFXMLRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c0000000052F15071000000000000036B
+t1391546481
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052F1507100000000000001A0
+t1391546481
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052F1507300000000004D63C0
+t1391546483
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052F150740000000000A92BC0
+t1391546484
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000052F150740000000000210C80
+t1391546484
+s2165888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052F15075000000000017E0C0
+t1391546485
+s1564864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000052F1507500000000001A2270
+t1391546485
+s1712752
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052F150B00000000000000AC9
+t1391546544
+s2761
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPClient.o
+t1393527720
+s239152
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o
+t1393527720
+s61680
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFImageRequestOperation.o
+t1393527720
+s55904
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFJSONRequestOperation.o
+t1393527720
+s41740
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o
+t1393527720
+s34076
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFPropertyListRequestOperation.o
+t1393527720
+s38812
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o
+t1393527720
+s199716
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFXMLRequestOperation.o
+t1393527720
+s32968
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o
+t1393527720
+s3644
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking.LinkFileList
+c00000000530E562300000000000006A8
+t1393448483
+s1704
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o
+t1393527720
+s65724
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch.pch
+t1393527720
+s89244
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gfsafnrufxoazsbsxezqtmjnlgij/Pods-AFNetworking-prefix.pch.pch
+t1393527720
+s88324
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods-AFNetworking.a
+t1393527720
+s782024
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPClient.h
+c00000000530E404300000000000094F6
+t1393442883
+s38134
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPClient.m
+c00000000530E4043000000000000D08B
+t1393442883
+s53387
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+c00000000530E40430000000000001907
+t1393442883
+s6407
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+c00000000530E40430000000000003390
+t1393442883
+s13200
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.h
+c00000000530E404300000000000017D7
+t1393442883
+s6103
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.m
+c00000000530E40430000000000003209
+t1393442883
+s12809
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.h
+c00000000530E40430000000000000E83
+t1393442883
+s3715
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.m
+c00000000530E404300000000000018AE
+t1393442883
+s6318
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.h
+c00000000530E40430000000000000EB8
+t1393442883
+s3768
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.m
+c00000000530E40430000000000001654
+t1393442883
+s5716
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.h
+c00000000530E40430000000000000DCB
+t1393442883
+s3531
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.m
+c00000000530E4043000000000000164A
+t1393442883
+s5706
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+c00000000530E40430000000000004A28
+t1393442883
+s18984
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+c00000000530E40430000000000007A86
+t1393442883
+s31366
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.h
+c00000000530E404300000000000013E0
+t1393442883
+s5088
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.m
+c00000000530E40430000000000001944
+t1393442883
+s6468
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.h
+c00000000530E4043000000000000152E
+t1393442883
+s5422
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.m
+c00000000530E4043000000000000194B
+t1393442883
+s6475
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-dummy.m
+c00000000530F5493000000000000008A
+t1393513619
+s138
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-prefix.pch
+c00000000530F549300000000000001CF
+t1393513619
+s463
+
+N/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-environment.h
+c00000000530F549300000000000001AE
+t1393513619
+s430
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPClient.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.m
+r0
+
+CBuild AST from /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies93e253baefc0b841^533e54baefc0b841^---0#1#1#--18"Check dependencies36"EA8E882E-23CB-40F7-A92A-B87055584EB3-
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPClient.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPClient.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFHTTPRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFImageRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFJSONRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFNetworkActivityIndicatorManager.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFPropertyListRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFURLConnectionOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/AFXMLRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/Pods-AFNetworking-dummy.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/UIImageView+AFNetworking.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPClient.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPClient.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFImageRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFJSONRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkActivityIndicatorManager.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFPropertyListRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLConnectionOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFXMLRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/Pods-AFNetworking-dummy.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIImageView+AFNetworking.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPClient.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPClient.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415220520.201519
+e415220520.525966
+r1
+xCompileC
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPClient.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPClient.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPClient.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPClient.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPClient.m278"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPClient.o AFNetworking/AFNetworking/AFHTTPClient.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerbcae3328c3bfb841^48a78628c3bfb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPClient.m0000000000000000^4155"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPClient.o AFNetworking/AFNetworking/AFHTTPClient.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/mbingham/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-checker -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPClient.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPClient.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPClient.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPClient.o36"FD7B65ED-3574-4348-B0F0-CA2F7DD550D2-
+bCA5963EB-5497-4160-83F8-A101B645D4C3
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415220520.201750
+e415220520.343848
+r1
+xCompileC
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m298"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerf7c73328c3bfb841^9fe75728c3bfb841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m0000000000000000^4215"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/mbingham/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-checker -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o36"54877F4F-42D9-4F60-B52C-FBEC1133C093-
+bCA5963EB-5497-4160-83F8-A101B645D4C3
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFImageRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415220520.202152
+e415220520.334614
+r1
+xCompileC
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFImageRequestOperation.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.m300"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFImageRequestOperation.o AFNetworking/AFNetworking/AFImageRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerebe53328c3bfb841^60935528c3bfb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.m0000000000000000^4221"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFImageRequestOperation.o AFNetworking/AFNetworking/AFImageRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/mbingham/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-checker -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFImageRequestOperation.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFImageRequestOperation.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFImageRequestOperation.o36"BA364EA9-6F4A-4C5F-83FE-B64744D162DE-
+bCA5963EB-5497-4160-83F8-A101B645D4C3
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFJSONRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415220520.202824
+e415220520.325509
+r1
+xCompileC
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFJSONRequestOperation.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.m298"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFJSONRequestOperation.o AFNetworking/AFNetworking/AFJSONRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerc5203428c3bfb841^32565328c3bfb841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.m0000000000000000^4215"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFJSONRequestOperation.o AFNetworking/AFNetworking/AFJSONRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/mbingham/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-checker -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFJSONRequestOperation.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFJSONRequestOperation.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFJSONRequestOperation.o36"085781E7-F1C6-45CD-9618-5244E64F7225-
+bCA5963EB-5497-4160-83F8-A101B645D4C3
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415220520.326912
+e415220520.400461
+r1
+xCompileC
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.m320"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler14d15328c3bfb841^817b6628c3bfb841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.m0000000000000000^4281"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/mbingham/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-checker -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o36"3A948F8D-6E35-458A-8264-169EF9017E93-
+bCA5963EB-5497-4160-83F8-A101B645D4C3
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFPropertyListRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415220520.334944
+e415220520.405951
+r1
+xCompileC
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFPropertyListRequestOperation.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.m314"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFPropertyListRequestOperation.o AFNetworking/AFNetworking/AFPropertyListRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler22df5528c3bfb841^ffec6728c3bfb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.m0000000000000000^4263"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFPropertyListRequestOperation.o AFNetworking/AFNetworking/AFPropertyListRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/mbingham/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-checker -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFPropertyListRequestOperation.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFPropertyListRequestOperation.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFPropertyListRequestOperation.o36"A2F39FCB-484F-4E31-8685-2DD931ECF089-
+bCA5963EB-5497-4160-83F8-A101B645D4C3
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415220520.344165
+e415220520.564456
+r1
+xCompileC
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m302"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler8a395828c3bfb841^d4819028c3bfb841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m0000000000000000^4227"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/mbingham/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-checker -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o36"82D8DDEB-D32A-4295-8E06-88CE19066A62-
+bCA5963EB-5497-4160-83F8-A101B645D4C3
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFXMLRequestOperation.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415220520.400794
+e415220520.466536
+r1
+xCompileC
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFXMLRequestOperation.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.m296"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFXMLRequestOperation.o AFNetworking/AFNetworking/AFXMLRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler91b96628c3bfb841^096f7728c3bfb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.m0000000000000000^4209"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFXMLRequestOperation.o AFNetworking/AFNetworking/AFXMLRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/mbingham/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-checker -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFXMLRequestOperation.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFXMLRequestOperation.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFXMLRequestOperation.o36"968F827B-14D5-4366-A4D4-D7F3C7BB0275-
+bCA5963EB-5497-4160-83F8-A101B645D4C3
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415220520.406598
+e415220520.452466
+r1
+xCompileC
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-dummy.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-dummy.m274"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerfb3a6828c3bfb841^7bd87328c3bfb841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-dummy.m0000000000000000^4095"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/mbingham/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gfsafnrufxoazsbsxezqtmjnlgij/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-dummy.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o36"6FDA7CAE-4197-4DE0-B26B-8DFC48FF0176-
+bCA5963EB-5497-4160-83F8-A101B645D4C3
+
+CCompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415220520.452851
+e415220520.525472
+r1
+xCompileC
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.m
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.m302"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o AFNetworking/AFNetworking/UIImageView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere5097428c3bfb841^40868628c3bfb841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.m0000000000000000^4227"CompileC /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o AFNetworking/AFNetworking/UIImageView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/mbingham/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-checker -include /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.d --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.dia -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.m -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o36"7F2A9677-C205-4CC4-8577-C7044C01D66D-
+bCA5963EB-5497-4160-83F8-A101B645D4C3
+
+CCreateUniversalBinary /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7\ armv7s\ arm64
+r0
+
+CLibtool /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/arm64/libPods-AFNetworking.a normal arm64
+r0
+
+CLibtool /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/libPods-AFNetworking.a normal armv7
+r0
+
+CLibtool /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/libPods-AFNetworking.a normal armv7s
+r0
+
+CLibtool /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7s
+s415220520.565553
+e415220520.574327
+r1
+xLibtool
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods-AFNetworking.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Libtool /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7s126"Libtool /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7s61dd9028c3bfb841^bc089328c3bfb841^---0#0#1#--1164"Libtool /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7s    cd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -filelist /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking.LinkFileList -framework CoreGraphics -framework Foundation -framework MobileCoreServices -framework Security -framework SystemConfiguration -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/libPods-AFNetworking.a36"59186981-E6A7-41B9-9918-0638DD010645-
+bCA5963EB-5497-4160-83F8-A101B645D4C3
+
+CProcessPCH /Users/mbingham/Library/Developer/Xcode/DerivedData/SampleApp-cqytqipypleefvevdykpsfxcbswe/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-bcrlttwfeozntnclydiatonoituo_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mbingham/Library/Developer/Xcode/DerivedData/SampleApp-cqytqipypleefvevdykpsfxcbswe/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-chrtbdusjjfghffmrttrogpuxeed_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mbingham/Library/Developer/Xcode/DerivedData/SampleApp-cqytqipypleefvevdykpsfxcbswe/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-dcgkpnyongiwswcozhlecqwjlnwj_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mbingham/Library/Developer/Xcode/DerivedData/SampleApp-cqytqipypleefvevdykpsfxcbswe/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-dhtzolyxdfewftfxpobnsctywylx_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mbingham/Library/Developer/Xcode/DerivedData/SampleApp-cqytqipypleefvevdykpsfxcbswe/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-ecwvatjcnbavcibgwobcmjtkyncp_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mbingham/Library/Developer/Xcode/DerivedData/SampleApp-cqytqipypleefvevdykpsfxcbswe/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-furqmalktzqvajazyzlaragbfnsf_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bnlulsriaavpjtawlgacsmbubvcl/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cboyoggowvzhkccwafbozvfhqtuv/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415220520.018479
+e415220520.198892
+r1
+xProcessPCH
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-prefix.pch
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch287"ProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere8dd0428c3bfb841^b8ea3228c3bfb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-prefix.pch0000000000000000^4029"ProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/mbingham/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-checker --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch.d -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-prefix.pch -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dkmgsuztlyvvxlgntlrxbbgpxtem/Pods-AFNetworking-prefix.pch.pch36"819F6FD9-439F-43CE-B454-4EC99762EFC2-
+bCA5963EB-5497-4160-83F8-A101B645D4C3
+
+CProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-fisfwzrifxvcscbfvsekyzhqhxkj/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gfsafnrufxoazsbsxezqtmjnlgij/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415220520.018746
+e415220520.200857
+r1
+xProcessPCH
+x/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gfsafnrufxoazsbsxezqtmjnlgij/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-prefix.pch
+d/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch287"ProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gfsafnrufxoazsbsxezqtmjnlgij/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler07ee0428c3bfb841^116d3328c3bfb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3955"ProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gfsafnrufxoazsbsxezqtmjnlgij/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/mbingham/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos/include -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/BuildHeaders/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Headers/AFNetworking -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gfsafnrufxoazsbsxezqtmjnlgij/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gfsafnrufxoazsbsxezqtmjnlgij/Pods-AFNetworking-prefix.pch.d -c /Users/mbingham/Zighra/user_study/pinview/SampleApp/Pods/Pods-AFNetworking-prefix.pch -o /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gfsafnrufxoazsbsxezqtmjnlgij/Pods-AFNetworking-prefix.pch.pch36"D1DD8966-DE65-49AF-9ACE-023809989F38-
+bCA5963EB-5497-4160-83F8-A101B645D4C3
+
+CProcessPCH /Users/mbingham/Zighra/user_study/pinview/SampleApp/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gywejarisvatqadjuxghvmeccaxb/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
