@@ -7,9 +7,15 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <CoreMotion/CoreMotion.h>
 
 @interface SAAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
+@property (readonly, strong, nonatomic) CMMotionManager *motionManager;
+
+- (void) startUpdates;
+- (void) startRecording;
+- (void) stopRecording;
 
 @end

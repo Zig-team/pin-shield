@@ -43,25 +43,27 @@ AFHTTPClient *httpclient;
     PIN.errorText = @"Incorrect passcode";
     PIN.title = @"Enter Passcode";
     PIN.verifyBlock = ^(NSString *code) {
-        NSLog(@"checking code: %@ against %@", code, self.pin);
+      NSLog(@"checking code: %@ against %@", code, self.pin);
       
       NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
       NSString *profile_name = [defaults stringForKey:@"name_preference"];
+      NSString *tmp_profile_name = @"test";
+
+      if (profile_name == (id)[NSNull null] || profile_name.length == 0) profile_name = tmp_profile_name;
+
       //BOOL imitation = [defaults boolForKey:@"enabled_preference"];
       BOOL imitation = [self.imitation isOn];
-      
+
       NSDictionary *options = @{@"profile_name" : profile_name,
                                 @"check"       : code,
                                 @"against"  : self.pin,
                                 @"imitation" : @(imitation),
                                 @"times"    : PIN.timeArray
                                 };
-      
+
       [httpclient postPath:@"addpin" parameters:options success:^(AFHTTPRequestOperation *operation, id responseObject) {
       } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
       }];
-
-      
         return [code isEqualToString:self.pin];
     };
     [PIN presentFromViewController:self animated:YES];
