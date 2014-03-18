@@ -7,7 +7,7 @@
 //
 
 #import "SAViewController.h"
-
+#import "SAAppDelegate.h"
 #import "GCPINViewController.h"
 #import <AFNetworking/AFHTTPClient.h>
 
@@ -34,7 +34,7 @@ AFHTTPClient *httpclient;
 
 - (IBAction)checkPIN {
     httpclient = [[AFHTTPClient alloc] initWithBaseURL:[NSURL URLWithString:@"http://134.117.225.100:3000"]];
-  
+    SAAppDelegate *app_delegate = (SAAppDelegate*)([UIApplication sharedApplication].delegate);
     GCPINViewController *PIN = [[GCPINViewController alloc]
                                 initWithNibName:nil
                                 bundle:nil
@@ -43,6 +43,7 @@ AFHTTPClient *httpclient;
     PIN.errorText = @"Incorrect passcode";
     PIN.title = @"Enter Passcode";
     PIN.verifyBlock = ^(NSString *code) {
+      [app_delegate stopRecording];
       NSLog(@"checking code: %@ against %@", code, self.pin);
       
       NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
@@ -53,19 +54,22 @@ AFHTTPClient *httpclient;
 
       //BOOL imitation = [defaults boolForKey:@"enabled_preference"];
       BOOL imitation = [self.imitation isOn];
-
+      
       NSDictionary *options = @{@"profile_name" : profile_name,
                                 @"check"       : code,
                                 @"against"  : self.pin,
                                 @"imitation" : @(imitation),
                                 @"times"    : PIN.timeArray
                                 };
-
+      
       [httpclient postPath:@"addpin" parameters:options success:^(AFHTTPRequestOperation *operation, id responseObject) {
       } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
       }];
         return [code isEqualToString:self.pin];
     };
+  
+    [app_delegate startRecording];
+  
     [PIN presentFromViewController:self animated:YES];
     [PIN release];
 }
