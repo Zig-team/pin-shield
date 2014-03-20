@@ -14,8 +14,14 @@
 @property (strong, nonatomic) UIWindow *window;
 @property (readonly, strong, nonatomic) CMMotionManager *motionManager;
 
+@property (nonatomic, retain) NSMutableArray *accelerometerPoints;
+@property (nonatomic, retain) NSMutableArray *gyroscopePoints;
+@property (nonatomic, assign) BOOL recording;
+@property (nonatomic, retain) NSDate *startTime;
+
 - (void) startUpdates;
 - (void) startRecording;
 - (void) stopRecording;
+- (NSString *) toJSON: (NSMutableArray *)data;
 
 @end

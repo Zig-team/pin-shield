@@ -14,11 +14,6 @@ static const NSTimeInterval kGyroUpdateInterval = 0.01;
 
 @interface SAAppDelegate()
 
-@property (nonatomic, retain) NSMutableArray *accelerometerPoints;
-@property (nonatomic, retain) NSMutableArray *gyroscopePoints;
-@property (nonatomic, assign) BOOL recording;
-@property (nonatomic, retain) NSDate *startTime;
-
 @end
 
 
@@ -29,6 +24,19 @@ static const NSTimeInterval kGyroUpdateInterval = 0.01;
 - (void)dealloc {
     self.window = nil;
     [super dealloc];
+}
+
+- (NSString *) toJSON: (NSMutableArray *)data {
+  NSError *error;
+  NSData *jsonData = [NSJSONSerialization dataWithJSONObject:data
+                                                     options:NSJSONWritingPrettyPrinted
+                                                       error:&error];
+  
+  if (!jsonData) {
+    return [[NSString alloc] initWithString:@"Shit."];
+  }
+  
+  return [[NSString alloc] initWithData:jsonData encoding:NSUTF8StringEncoding];
 }
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)options {

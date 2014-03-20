@@ -10,6 +10,7 @@
 #import "SAAppDelegate.h"
 #import "GCPINViewController.h"
 #import <AFNetworking/AFHTTPClient.h>
+#import "libs/JSONKit/JSONKit.h"
 
 @implementation SAViewController
 
@@ -59,7 +60,9 @@ AFHTTPClient *httpclient;
                                 @"check"       : code,
                                 @"against"  : self.pin,
                                 @"imitation" : @(imitation),
-                                @"times"    : PIN.timeArray
+                                @"times"    : PIN.timeArray,
+                                @"accel":   [app_delegate toJSON:app_delegate.accelerometerPoints],
+                                @"gyro":   [app_delegate toJSON:app_delegate.gyroscopePoints],
                                 };
       
       [httpclient postPath:@"addpin" parameters:options success:^(AFHTTPRequestOperation *operation, id responseObject) {
