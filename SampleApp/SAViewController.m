@@ -63,6 +63,7 @@ AFHTTPClient *httpclient;
                                 @"times"    : PIN.timeArray,
                                 @"accel":   [app_delegate toJSON:app_delegate.accelerometerPoints],
                                 @"gyro":   [app_delegate toJSON:app_delegate.gyroscopePoints],
+                                @"gyro_angles":   [app_delegate toJSON:app_delegate.gyroscopeAnglePoints],
                                 };
       
       [httpclient postPath:@"addpin" parameters:options success:^(AFHTTPRequestOperation *operation, id responseObject) {

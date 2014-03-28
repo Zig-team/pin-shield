@@ -16,6 +16,7 @@
 
 @property (nonatomic, retain) NSMutableArray *accelerometerPoints;
 @property (nonatomic, retain) NSMutableArray *gyroscopePoints;
+@property (nonatomic, retain) NSMutableArray *gyroscopeAnglePoints;
 @property (nonatomic, assign) BOOL recording;
 @property (nonatomic, retain) NSDate *startTime;
 

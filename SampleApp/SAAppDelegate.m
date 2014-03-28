@@ -77,6 +77,15 @@ static const NSTimeInterval kGyroUpdateInterval = 0.01;
         [wSelf.gyroscopePoints addObject:d];
       }
     }];
+    
+    [motion setDeviceMotionUpdateInterval:kGyroUpdateInterval];
+    [motion startDeviceMotionUpdatesToQueue:[NSOperationQueue mainQueue] withHandler:^(CMDeviceMotion *motion, NSError *error) {
+      if (wSelf.recording) {
+        NSDictionary *d = @{@"r": @(motion.attitude.roll), @"p":@(motion.attitude.pitch), @"y":@(motion.attitude.yaw), @"t":@([[NSDate date] timeIntervalSinceDate:_startTime])};
+        [wSelf.gyroscopeAnglePoints addObject:d];
+      }
+    }];
+
   }
 
 }
@@ -85,6 +94,7 @@ static const NSTimeInterval kGyroUpdateInterval = 0.01;
   self.recording = YES;
   self.accelerometerPoints = [NSMutableArray arrayWithCapacity:100];
   self.gyroscopePoints = [NSMutableArray arrayWithCapacity:100];
+  self.gyroscopeAnglePoints = [NSMutableArray arrayWithCapacity:100];
   self.startTime = [NSDate date];
 }
 
