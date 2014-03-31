@@ -96,6 +96,7 @@ static const NSTimeInterval kGyroUpdateInterval = 0.01;
   self.gyroscopePoints = [NSMutableArray arrayWithCapacity:100];
   self.gyroscopeAnglePoints = [NSMutableArray arrayWithCapacity:100];
   self.startTime = [NSDate date];
+  NSLog(@"Start recording\n");
 }
 
 - (void) stopRecording {

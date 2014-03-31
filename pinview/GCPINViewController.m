@@ -7,8 +7,10 @@
 //
 
 #import "GCPINViewController.h"
+#import "SAAppDelegate.h"
 #import <AudioToolbox/AudioToolbox.h>
 #import <AFNetworking/AFHTTPClient.h>
+
 
 #define kGCPINViewControllerDelay 0.3
 
@@ -66,7 +68,7 @@
          object:nil];
         self.mode = mode;
         __dismiss = NO;
-	}  
+	}
 	return self;
 }
 - (void)dealloc {
@@ -198,13 +200,20 @@
 #pragma mark - text field methods
 - (void)textDidChange:(NSNotification *)notif {
   
+  SAAppDelegate *app_delegate = (SAAppDelegate*)([UIApplication sharedApplication].delegate);
+  if (![app_delegate recording]) {
+    [app_delegate startRecording];
+  }
+  
   [self.timeArray addObject:[[NSNumber alloc] initWithDouble:[[NSDate date] timeIntervalSince1970]]];
   
     if ([notif object] == self.inputField) {
         NSAssert(self.verifyBlock, @"No passcode verify block is set");
         [self updatePasscodeDisplay];
         if ([self.inputField.text length] == 4) {
+            [app_delegate stopRecording];
             self.text = self.inputField.text;
+
             if (self.mode == GCPINViewControllerModeCreate) {
                 /*if (self.text == nil) {
                     self.text = self.inputField.text;
@@ -243,5 +252,4 @@
 - (BOOL)textFieldShouldEndEditing:(UITextField *)textField {
     return __dismiss;
 }
-
 @end

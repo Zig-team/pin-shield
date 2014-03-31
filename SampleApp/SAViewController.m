@@ -34,7 +34,11 @@ AFHTTPClient *httpclient;
 }
 
 - (IBAction)checkPIN {
-    httpclient = [[AFHTTPClient alloc] initWithBaseURL:[NSURL URLWithString:@"http://134.117.225.100:3000"]];
+    httpclient = [[AFHTTPClient alloc] initWithBaseURL:[NSURL URLWithString:@"https://tetris.ccsl.carleton.ca:3000"]];
+    [httpclient setAuthorizationHeaderWithUsername:@"SwipeLock" password:@"abF34!qt"];
+    [httpclient setAllowsInvalidSSLCertificate:YES];
+
+  
     SAAppDelegate *app_delegate = (SAAppDelegate*)([UIApplication sharedApplication].delegate);
     GCPINViewController *PIN = [[GCPINViewController alloc]
                                 initWithNibName:nil
@@ -44,7 +48,8 @@ AFHTTPClient *httpclient;
     PIN.errorText = @"Incorrect passcode";
     PIN.title = @"Enter Passcode";
     PIN.verifyBlock = ^(NSString *code) {
-      [app_delegate stopRecording];
+      //Moved to GCPINViewController.m
+      //[app_delegate stopRecording];
       NSLog(@"checking code: %@ against %@", code, self.pin);
       
       NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
@@ -63,16 +68,18 @@ AFHTTPClient *httpclient;
                                 @"times"    : PIN.timeArray,
                                 @"accel":   [app_delegate toJSON:app_delegate.accelerometerPoints],
                                 @"gyro":   [app_delegate toJSON:app_delegate.gyroscopePoints],
-                                @"gyro_angles":   [app_delegate toJSON:app_delegate.gyroscopeAnglePoints],
+                                @"gyro_angles":   [app_delegate toJSON:app_delegate.gyroscopeAnglePoints]
                                 };
-      
       [httpclient postPath:@"addpin" parameters:options success:^(AFHTTPRequestOperation *operation, id responseObject) {
+        NSLog(@"Success!");
       } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+        NSLog(@"Failure! %@", error);
       }];
         return [code isEqualToString:self.pin];
     };
   
-    [app_delegate startRecording];
+    //This is moved to GCPINViewController.m
+    //[app_delegate startRecording];
   
     [PIN presentFromViewController:self animated:YES];
     [PIN release];
@@ -91,4 +98,5 @@ AFHTTPClient *httpclient;
   [_imitation release];
   [super dealloc];
 }
+
 @end
